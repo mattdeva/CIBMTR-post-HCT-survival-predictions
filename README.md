@@ -6,6 +6,8 @@
 
 ## Exploratory Analysis
 
+[eda notebook](https://github.com/mattdeva/CIBMTR-post-HCT-survival-predictions/blob/main/eda.ipynb)
+
 Target Analysis
 - Distribution of targets
 - Survival probabilities
@@ -25,6 +27,9 @@ Clustering
 - Silhouette analysis
 
 ## Subimission
+
+[submission notebook](https://github.com/mattdeva/CIBMTR-post-HCT-survival-predictions/blob/main/submission.ipynb)
+
 Components
 - Feature Engineering
 - Clustering
